@@ -8,7 +8,11 @@ face.py : test the model
 Language - Python
 
 Tech Stack
+
 >OpenCv
+
 >NumPy
+
 >Pickle
-<PIL
+
+>PIL
