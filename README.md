@@ -7,7 +7,7 @@ face.py : test the model
 
 Language - Python
 
-Tech Stack
+Libraries used:
 
 >OpenCv
 
